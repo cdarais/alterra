@@ -56,10 +56,10 @@
 
 	///////////////////////////
 	// magnificPopup
-	$('.work').magnificPopup({
-		delegate: '.lightbox',
-		type: 'image'
-	});
+	// $('.work').magnificPopup({
+	// 	delegate: '.lightbox',
+	// 	type: 'image'
+	// });
 
 	///////////////////////////
 	// Owl Carousel
